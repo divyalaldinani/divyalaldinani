@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **divyalaldinani@gmail.com**
 
-<img align = "right" alt= "coding" width = "400" src = "C:\Users\VAISHNAVI LALDINANI\OneDrive\Desktop\gif.gif">
+<!--<img align = "right" alt= "coding" width = "400" src = "C:\Users\VAISHNAVI LALDINANI\OneDrive\Desktop\gif.gif">-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
