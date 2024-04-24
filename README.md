@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">A passionate competitive programmer and backend developer from India</h3>
 
-- 🔭 I’m currently working on **video platform Project**
+- 🔭 I’m currently working on **Youtube-like Video platform Project based on Full-stack development**
 
 - 🌱 I’m currently learning **Javascript**
 
