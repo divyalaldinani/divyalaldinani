@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Divya</h1>
-<h3 align="center">A passionate competitive programmer and backend developer from India</h3>
+<h3 align="center">A passionate competitive programmer and Machine Learning Enthusiast from India</h3>
 
 
 - 🌱 I’m currently learning **Neural Netwroks**
