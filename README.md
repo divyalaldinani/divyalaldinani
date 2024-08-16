@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyalaldinani" alt="divyalaldinani" /></a> </p>
 
-- 🌱 I’m currently learning **Neural Netwroks**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/divyalaldinani](https://github.com/divyalaldinani)
 
