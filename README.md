@@ -2,7 +2,7 @@
 Hello, I'm Divya👋<br>
 🌱 I’m currently learning Neural Networks<br>👨‍💻 All of my projects are available at https://github.com/divyalaldinani<br>💬 Ask me about ML, DSA<br>📫 How to reach me divyalaldinani@gmail.com
 
-
+<!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-laldinani) 
 
@@ -24,5 +24,5 @@ Hello, I'm Divya👋<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=divyalaldinani&icon=7&color=1)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
